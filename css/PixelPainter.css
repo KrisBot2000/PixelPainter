@@ -11,11 +11,13 @@ h1{
   font-size: 80px;
   border: 2px solid black;
   background-color: lightgray;
-  text-decoration-style:
-  width: 300px;
   height: 100px;
+
   color: white;
-  text-shadow: 1px 1px 1px #888888;
+  text-shadow: 2px 2px 2px #888888;
+  margin-left: 30%;
+  margin-right: 30%;
+  width: 40%;
 }
 
 button {
@@ -57,10 +59,11 @@ button:hover {
 .canvas {
   position: absolute;
   top: 160px;
-  left: 200px;
+  left: 200px;*/
   width: 750px;
   box-shadow: 5px 5px 5px #888888;
 }
+
 
 /*divs in color-swatch grid*/
 div.box {
